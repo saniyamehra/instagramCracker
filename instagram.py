@@ -67,14 +67,14 @@ class InstaBrute(object):
         colors = [36, 32, 34, 35, 31, 37]
 
         x = """
-                     White Hat hacker
+                     Hacker Kunu 247
                   _____           _        ____             _       
                  |_   _|         | |      |  _ \           | |      
                    | |  _ __  ___| |_ __ _| |_) |_ __ _   _| |_ ___ 
                    | | | '_ \/ __| __/ _` |  _ <| '__| | | | __/ _ |
                   _| |_| | | \__ \ || (_| | |_) | |  | |_| | ||  __/
                  |_____|_| |_|___/\__\__,_|____/|_|   \__,_|\__\___|
-                    GitHub.com/04x                    Iran-Cyber.NeT                                                 
+                    GitHub.com/kunu247                    justclickit247.corp                                                 
                     
             Note! : We don't Accept any responsibility for any illegal usage.       
     """
